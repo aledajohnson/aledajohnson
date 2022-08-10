@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @aledajohnson
 - 👀 I’m interested in community building, education, data, and travel
-- 🌱 I’m currently learning Python, SQL, & R
+- 🌱 I’m currently learning Python, Data Science, & Product Management
+
+
 
 
 <!---
